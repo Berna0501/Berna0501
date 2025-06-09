@@ -6,7 +6,7 @@
 
 ## 💡 Áreas de Interesse
 - CyberSecurity  
-- DataScience 
+- Data Science 
 
 ## ✉️ Contato
 - [LinkedIn](https://www.linkedin.com/in/bernardomcpf)  
