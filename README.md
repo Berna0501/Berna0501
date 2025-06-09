@@ -9,5 +9,5 @@
 - DataScience 
 
 ## ✉️ Contato
-- [LinkedIn](www.linkedin.com/in/bernardomcpf)  
+- [LinkedIn](linkedin.com/in/bernardomcpf)  
 - [E-mail](mailto:bernardocostapintofilho@yahoo.com.br) 
