@@ -1,12 +1,13 @@
-# 👋Ola, me chamo Bernardo!
+# 👋 Olá, me chamo Bernardo!
 
-# 🤔 **Sobre mim**
-- Tenho 18 anos
-- Atualmente estudo Ciencia da Computacao pela CESAR School
+## 🤔 Sobre mim
+- Tenho 18 anos.  
+- Atualmente, estudo Ciência da Computação na CESAR School.  
 
-# 💡 **Areas de Interesse**
-- As areas que mais me atraem sao a de CyberSecurity e DataScience
+## 💡 Áreas de Interesse
+- CyberSecurity  
+- DataScience 
 
-# ✉️ **Contato**
-- LinkedIn(www.linkedin.com/in/bernardomcpf)
-- E-mail(bernardocostapintofilho@yahoo.com.br)
+## ✉️ Contato
+- [LinkedIn](www.linkedin.com/in/bernardomcpf)  
+- [E-mail](mailto:bernardocostapintofilho@yahoo.com.br) 
