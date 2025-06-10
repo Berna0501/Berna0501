@@ -2,7 +2,12 @@
 
 ## 🤔 Sobre mim
 - Tenho 18 anos.  
-- Atualmente, estudo Ciência da Computação na CESAR School.  
+- Atualmente, estudo Ciência da Computação na CESAR School.
+
+## ⚙️ Competências
+- Phyton
+- JavaScript, HTML, CSS
+- C, C++
 
 ## 💡 Áreas de Interesse
 - CyberSecurity  
